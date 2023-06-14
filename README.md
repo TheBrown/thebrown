@@ -1,4 +1,4 @@
-## Hi! I'm [@thebrown](https://github.com/thebrown) (Saleumsack KEOBOUALAY)  👋
+## Hi! I'm [Bobby](https://github.com/thebrown) (Saleumsack KEOBOUALAY)  👋
 
 > Software Engineer, Tech blogger, Runner and Beef Lover
 
