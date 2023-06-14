@@ -7,7 +7,7 @@ I'm a full-stack software engineer from Laos. 🇱🇦
 
 I currenly live in Sydney, Australia 🇦🇺 🦘
 
-I've created APIs, tools, and mobile applications for the finance system in Laos. Former programmer (product, research, and development team member) at [BCEL Bank](https://bcel.la). I also contribute to numerous open-source projects, including ReactJS, Mozilla, etc.
+I've created APIs, tools, and mobile applications for the finance system in Laos. Former programmer (product, research, and development team member) at [BCEL Bank](https://bcel.la). I also contribute to numerous open-source projects, including [ReactJS](https://github.com/reactjs/lo.react.dev), [Mozilla](https://pontoon.mozilla.org/contributors/cUZ-J6xG_NJqN0BkgbmoRoySvaI/), etc.
 
 - 🔭 I’m currently seeking new opportunities as software engineer.
 - 🌱 I’m currently learning cyber security, machine learning and argicultural. 
